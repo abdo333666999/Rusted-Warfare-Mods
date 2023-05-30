@@ -1,0 +1,6 @@
+[mod]
+title: Extinction Units V1.3
+description: A pack full of crazy units!!\n______________________________\nV1.2.5\nChange log:\n-Added gold extractor with the resource "Gold".\n______________________________\nV1.2.6\nChange log:\n-Fixed building time not being applied to the new gold extractor building.\n-Added a color to the new resource.\n-Improved the gold extractor's texture.
+______________________________\nV1.3\n-Added T2 and T3 of the gold extractor.
+[music]
+sourceFolder: Music/
